@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+.venv
+venv/
+.env.*
+.ipynb_checkpoints/
+
+# artifacts
+logs/
+models/
+
+# OS
+.DS_Store
